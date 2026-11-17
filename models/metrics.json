@@ -1,0 +1,16 @@
+{
+    "mae": 19.3262,
+    "rmse": 23.5872,
+    "r2_score": 0.3321,
+    "train_records": 200000,
+    "test_records": 50000,
+    "total_records": 2002000,
+    "n_samples": 10,
+    "features": [
+        "real_electric_field",
+        "imaginary_electric_field"
+    ],
+    "target": "rust_percentage",
+    "model_type": "Random Forest Regressor",
+    "training_time_sec": 8.16
+}
